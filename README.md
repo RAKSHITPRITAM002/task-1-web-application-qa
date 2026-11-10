@@ -4,11 +4,11 @@
 
 | Field | Details |
 |---|---|
-| Tester | [Your Name] |
+| Tester | Pritam R |
 | Application | RealWorld Conduit |
-| Application URL | [Insert exact URL tested] |
-| Test date | [Insert date] |
-| Browser | [Insert browser and version] |
+| Application URL | https://demo.realworld.show/|
+| Test date | 11/10/2026 |
+| Browser | Chrome |
 | Operating system | Windows [10/11] |
 | Test type | Manual functional and responsive testing |
 
